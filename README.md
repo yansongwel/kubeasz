@@ -120,7 +120,7 @@
 
 ## 沟通交流
 
-- 微信群：k8s&kubeasz实践, 搜索微信号`badtobone`, 请备注（城市-github用户名）, 验证通过会加入群聊。
+- qq群：865562186 实践, 搜索微信公众号`农夫运维`欢迎关注。
 - 推荐阅读
   - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   - [feisky-Kubernetes 指南](https://github.com/feiskyer/kubernetes-handbook/blob/master/SUMMARY.md)
